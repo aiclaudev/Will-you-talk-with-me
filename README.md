@@ -1,2 +1,2 @@
-# KHU project [AURA[
+# KHU project [AURA]
 ## Will you talk wiht me
